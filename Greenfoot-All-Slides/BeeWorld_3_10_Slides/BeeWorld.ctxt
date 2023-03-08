@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BeeWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ BeeWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=BeeWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BeeWorld.\n\ \n
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=
+comment3.target=void\ updateScore()
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\n
+comment5.params=
+comment5.target=Bee\ getBee()
+numComments=6
